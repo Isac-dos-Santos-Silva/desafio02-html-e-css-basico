@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500;700&family=Open+Sans:wght@400;700&display=swap');
+
+body {
+	font-family: 'open sans';
+	color: #828282;
+	font-size: 15px;
+	margin: 0px;
+	padding: 0;
+}
+#main {
+	width: 626px;
+	height: 486px;
+	text-align: center;
+	margin: 64px auto;
+
+}
+
+#baner {
+	margin-bottom: 32px;
+}
+
+h1 {
+	font-family: 'Dosis';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32px;
+	color: #3F3D56;
+	margin-bottom: 16px;
+}
+
+span {
+	color: #EE24FF;
+	font-weight: 700;
+}
+
+#texto-principal {
+	margin-bottom: 32px;
+}
+
+p {
+	margin: 0 30px;
+}
+
+#footer {
+	text-align: center;
+	position: relative;
+	margin: 0;
+	width: 100%;
+}
+
+#line {
+	width: 391px;
+	border: 1px solid #ECEFF2;
+	margin: 0 auto 5px;
+}
+
+#footer a {
+	padding: 0 15px;
+	text-decoration: none;
+	color: #3F3D56;
+}
+
+#footer img {
+	width: 100%;
+}
